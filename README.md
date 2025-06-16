@@ -1,3 +1,3 @@
 # Welcome to Movie app 👋
 
-![Preview Image](assets\images\preview.jpg)
+![Preview Image](assets/images/preview.jpg)
